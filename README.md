@@ -16,7 +16,7 @@ The Kupon Protocol also allows NFT holders and issuers to manage the process of 
 
 Version 1 of the protocol has been built during the GR12 hackathon:
 
-- Website: https://kupon-protocol.netlify.app/ (please use Mumbai testnet and get testnet MATIC tokens from an [official faucet here](https://faucet.polygon.technology/))
+- Website: https://kupon-protocol.netlify.app/ (please use Mumbai testnet and get testnet MATIC tokens from the [official faucet here](https://faucet.polygon.technology/))
 - Smart contracts code: https://github.com/Kupon-Protocol/kupon-protocol-contracts 
 - Frontend code: https://github.com/Kupon-Protocol/frontend 
 
