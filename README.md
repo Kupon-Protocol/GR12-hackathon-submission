@@ -24,6 +24,10 @@ Version 1 of the protocol has been built during the GR12 hackathon:
 
 Please see a demo of how to use the protocol here: https://www.youtube.com/watch?v=8OXOImglljk 
 
+### AWS
+
+If we get AWS credits as a reward, we'll use them for both frontend hosting and to run a dedicated node in order to provide better experience to our users when fetching Kupon data from a blockchain, or sending a transaction.
+
 ### Person of contact for the judges in case there are any questions
 
 tempe.techie@protonmail.com (Tempe Techie)
